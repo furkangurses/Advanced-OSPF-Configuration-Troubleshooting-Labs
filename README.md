@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/OSPF-Single-Area-Configuration-with-Default-Route-Advertisement/blob/main/1.PNG?raw=true)
 
 # OSPF Single-Area Configuration with Default Route Advertisement
 
